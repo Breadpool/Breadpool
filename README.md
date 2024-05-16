@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ioannis Manolopoulos</h1>
 <h3 align="center">A university student from Greece</h3>
 
-- 🔭 I’m currently working on [REM Engineer Assist](https://github.com/Rem-Ihu/rem-ng-assist.git)
+- 🔭 I’m currently working on [REM Engineer Suite](https://github.com/Rem-Ihu/Rem-Engineer-Suite.git)
 
 - 🌱 I’m currently learning **C++, HTML, Qt Creator**
 
